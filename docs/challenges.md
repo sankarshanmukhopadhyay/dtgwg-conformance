@@ -6,9 +6,9 @@ A vector is the suite maintainer's reading of a specification. An implementer wh
 
 Back to [the docs index](README.md). Terms are defined in the [glossary](03-glossary.md).
 
-## 1. No outward channel yet
+## 1. Where to raise a challenge
 
-This repository has no public home and no task-force contact ([decision 53](decisions/01-constraints-and-process.md#d53)). A challenge is therefore a local file in this repository, written by the maintainer or handed over by an implementer in whatever way they already talk. Nothing here is sent anywhere, and no issue is filed on anyone's behalf. When the project owner opens a channel (an issue tracker or a mailing list), the same file format is used there and this section changes to name it.
+Raise a concrete vector challenge in the repository's GitHub issue tracker, using the vector-bug template and the evidence described in section 4. The maintainer records the challenge and its disposition in the challenge file. Questions that need discussion can start in GitHub Discussions, as described in [CONTRIBUTING](../CONTRIBUTING.md). This does not authorize filing issues against measured platforms or sending questions to the task force on the project owner's behalf.
 
 ## 2. Who may challenge
 
