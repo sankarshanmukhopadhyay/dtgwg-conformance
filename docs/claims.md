@@ -4,7 +4,7 @@
 
 A result of this suite is a measurement of one surface of one platform, at one commit, by one suite version. This page says how to state such a result, so that a summary, a README badge or a slide says no more than the run shows. It applies to the suite's own pages and is offered to platforms that cite the suite.
 
-Back to [the docs index](README.md). Terms are defined in the [glossary](03-glossary.md); how results are read is in STATUS.md ("How to read these results").
+Back to [the docs index](README.md). Terms are defined in the [glossary](03-glossary.md); how results are read is in [Reading results](reading-results.md).
 
 ## 1. The claim template
 
